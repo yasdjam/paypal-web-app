@@ -4,3 +4,4 @@
 # class27 is the best group 
 # reconfigration of webhook (no / at the end)
 # Reconfigeration apply
+# webhook url updated
