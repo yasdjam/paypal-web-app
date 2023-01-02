@@ -9,9 +9,13 @@
 </head>
 </head>
 <body>
-<h1 align="center">Zainah, are you ready to be my wife for the rest of live.</h1>
-<h1 align="center">Zainah, are you ready to be happy for the rest of your life.</h1>
-<h1 align="center">Zainah, are you ready to be Super-Mother for the rest of your life.</h1>
+<h1 align="center">Today is Monday January 02 2023. The time is 5:15am.</h1>
+<h1 align="center">Zainah, my wife. please my message of the day.</h1>
+<h1 align="center">A strong woman loves, forgives, walks away, let’s go, tries again, and perseveres… does not matter what life throws at her.</h1>
+<h1 align="align="center">Money only impresses lazy girls. When a woman works hard, a man with money is a bonus, not a ladder to upgrade.<h1>
+	
+	
+	
 <h1 align="center">Welcome to Landmark Technologies, USA Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions and serving over 5 billion users.
 	We also offer Training for DevOps with Linux and Cloud Engineers for best performance.</h1>
