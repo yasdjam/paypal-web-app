@@ -10,15 +10,13 @@
 </head>
 <body>
 <h1 align="center">Today is Monday January 02 2023. The time is 5:15am.</h1>
-<h1 align="center">Zainah, my wife. please my message of the day.</h1>
+<h1 align="center">Zainah, my wife. please here is  my message of the day for you .</h1>
 <h1 align="center">A strong woman loves, forgives, walks away, let’s go, tries again, and perseveres… does not matter what life throws at her.</h1>
 <h1 align="align="center">Money only impresses lazy girls. When a woman works hard, a man with money is a bonus, not a ladder to upgrade.<h1>
 	
 	
 	
-<h1 align="center">Welcome to Landmark Technologies, USA Office.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions and serving over 5 billion users.
-	We also offer Training for DevOps with Linux and Cloud Engineers for best performance.</h1>
+
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -37,13 +35,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.png" alt="" width="150">
+		//<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+               // Landmark Technology, 
+		//Toronto, Ontario, Canada
+		//+1 437 215 2483,
+		//mylandmarktech@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
@@ -52,8 +50,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+//<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
+//<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
 </html>
